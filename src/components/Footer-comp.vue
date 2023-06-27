@@ -15,7 +15,6 @@ export default {
 </script>
 <style scoped>
 .footer{
-    position: fixed;
     bottom: 0;
     left: 0;
     height: 90px;
